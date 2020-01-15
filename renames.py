@@ -1,3 +1,6 @@
+# Python-Renames
+# by iCoACN
+# https://www.icoa.cn
 import os
 old = input('请输入要替换的内容：')
 new = input('请输入替换后的内容：')
